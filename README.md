@@ -355,7 +355,7 @@ public class Main {
 <!-- variables -->
 <div id="content" dir="rtl">
 
-# الدرس الثاني - المتغيرات
+# الدرس الثالث - المتغيرات
 <div align="center">
 <img src="https://personal-shbzt01.s3.us-east-2.amazonaws.com/assets/5.png"></img>
 </div>
