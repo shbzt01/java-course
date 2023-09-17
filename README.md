@@ -688,7 +688,7 @@ Math هو كلاس يحتوي على عدد من الدوال المهمة ال�
 خلينا نتفق انه في بعض المصطلحات بدنا نعرفها حاليا بس راح نفهمها لقدام زي الClass مثلا.
 
 <div align="center">
-<img src="![image](https://github.com/shbzt01/java-course/assets/61499949/3a11f928-ce9a-4d5e-96e9-854109732f78)
+<img src="[https://github.com/shbzt01/java-course/assets/61499949/3a11f928-ce9a-4d5e-96e9-854109732f78](https://github-production-user-asset-6210df.s3.amazonaws.com/61499949/268486778-3a11f928-ce9a-4d5e-96e9-854109732f78.png)
 "></img>
 source: http://www.cs.emory.edu/~cheung/Courses/170/Syllabus/04/java-lib.html
 </div>
