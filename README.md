@@ -710,7 +710,9 @@ source: http://www.cs.emory.edu/~cheung/Courses/170/Syllabus/04/java-lib.html
       }
     }
 ```
+
 </div>
+
 <br>
 الكلاس التي سنستخدمه اسمه Scanner، لذا يمكن استدعاؤه لوحده من المكتبة:
 <div dir="ltr">
