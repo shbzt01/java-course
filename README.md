@@ -831,7 +831,7 @@ source: http://www.cs.emory.edu/~cheung/Courses/170/Syllabus/04/java-lib.html
   * 
   <img src="https://personal-shbzt01.s3.us-east-2.amazonaws.com/assets/img2.png"></img>
 
-  * جد قيم x في المعادلة التربيعية
+  * جد قيم x في المعادلة التربيعية (quadratic equation) - واجب/متقدم (اختياري)
     
  </br></br>
  
